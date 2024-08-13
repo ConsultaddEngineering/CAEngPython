@@ -4,13 +4,13 @@
    - [x] **Control Flow**: Master if-else statements, loops (`for`, `while`), and exception handling.
    - [x] **Functions and Modules**: Learn how to define functions, use `*args` and `**kwargs`, and organize code into modules and packages.
    - [x] **Data Structures**: Get comfortable with lists, tuples, dictionaries, sets, and their methods.
-   - [ ] **File Handling**: Learn how to read, write, and manipulate files (text, CSV, JSON).
+   - [x] **File Handling**: Learn how to read, write, and manipulate files (text, CSV, JSON).
 
 ### 2. **Object-Oriented Programming (OOP) in Python**
-   - [ ] **Classes and Objects**: Understand class creation, attributes, and methods.
-   - [ ] **Inheritance**: Learn about single and multiple inheritance.
-   - [ ] **Encapsulation and Polymorphism**: Practice encapsulation and using polymorphic methods.
-   - [ ] **Magic Methods**: Explore special methods like `__init__`, `__str__`, `__repr__`, `__eq__`, etc.
+   - [x] **Classes and Objects**: Understand class creation, attributes, and methods.
+   - [x] **Inheritance**: Learn about single and multiple inheritance.
+   - [x] **Encapsulation and Polymorphism**: Practice encapsulation and using polymorphic methods.
+   - [x] **Magic Methods**: Explore special methods like `__init__`, `__str__`, `__repr__`, `__eq__`, etc.
 
 ### 3. **Python Development Tools**
    - [ ] **Virtual Environments**: Learn to create and manage virtual environments using `venv` or `virtualenv`.
