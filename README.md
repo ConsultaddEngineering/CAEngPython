@@ -13,17 +13,17 @@
    - [x] **Magic Methods**: Explore special methods like `__init__`, `__str__`, `__repr__`, `__eq__`, etc.
 
 ### 3. **Python Development Tools**
-   - [ ] **Virtual Environments**: Learn to create and manage virtual environments using `venv` or `virtualenv`.
-   - [ ] **Package Management**: Get familiar with `pip` and `poetry` for installing and managing packages.
-   - [ ] **Integrated Development Environment (IDE)**: Learn to use PyCharm and VSCode IDEs.
-   - [ ] **Debugging**: Learn to use debugger in your IDE.
-   - [ ] **Testing**: Write unit tests using `unittest` and `pytest`.
+   - [x] **Virtual Environments**: Learn to create and manage virtual environments using `venv` or `virtualenv`.
+   - [x] **Package Management**: Get familiar with `pip` and `poetry` for installing and managing packages.
+   - [x] **Integrated Development Environment (IDE)**: Learn to use PyCharm and VSCode IDEs.
+   - [x] **Debugging**: Learn to use debugger in your IDE.
+   - [x] **Testing**: Write unit tests using `unittest` and `pytest`.
 
 ### 4. **Web Development with Python**
-   - [ ] **Flask/Django**: Learn a web framework like Flask (for lightweight projects) or Django (for full-featured applications).
+   - [x] **Flask/Django**: Learn a web framework like Flask (for lightweight projects) or Django (for full-featured applications).
    - [ ] **APIs**: Build and consume RESTful APIs using Flask-RESTful, Django REST framework, or FastAPI.
-   - [ ] **ORMs**: Learn to use Object-Relational Mappers (ORMs) like SQLAlchemy or Django ORM to interact with databases.
-   - [ ] **Templating**: Use Jinja2 or Django templates to render HTML.
+   - [x] **ORMs**: Learn to use Object-Relational Mappers (ORMs) like SQLAlchemy or Django ORM to interact with databases.
+   - [x] **Templating**: Use Jinja2 or Django templates to render HTML.
 
 ### 5. **Data Handling and Analysis**
    - [ ] **Database Interaction**: Use SQLite, PostgreSQL, or MySQL with Python, and learn how to interact with them using libraries like `sqlite3` or `SQLAlchemy`.
